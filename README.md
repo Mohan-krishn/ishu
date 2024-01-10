@@ -1,3 +1,3 @@
 # ishu
-this is a calculator oopen  my its my link 
+This is a Calculator open  my its my link 
  https://mohan-krishn.github.io/ishu/
